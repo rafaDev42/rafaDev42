@@ -7,12 +7,15 @@
 * Paralelamente, estou investindo em estudos contínuos nas áreas de gestão e projetos, com a finalidade de construir uma base sólida de conhecimentos que me permita acompanhar e contribuir com as inovações do setor.
 
   ---------------------------------------------------------------------------------------
+## Hello, welcome!
 
  * I am currently transitioning into systems development, motivated by a long-standing passion for technology. I am looking for my first opportunity in this field with the aim of starting a solid, long-term career in software development.
 
 * My core skills include resilience, teamwork, effective communication, writing, flexibility, organization, and planning. I believe that these skills, developed throughout my experience, will be a differentiator in my work in technology.
 
 * At the same time, I invest in ongoing studies in the areas of management and projects, with the goal of building a solid knowledge base that will enable me to keep up with and contribute to innovations in the industry.
+
+
 <div>
   <a href="https://www.linkedin.com/in/rafael-santana-1361b7205/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaDev42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
