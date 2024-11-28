@@ -5,7 +5,7 @@
 * Minhas principais competências incluem resiliência, trabalho em equipe, comunicação eficaz, escrita, flexibilidade, organização e planejamento. Acredito que essas habilidades, desenvolvidas ao longo de minha experiência, serão um diferencial em minha atuação na área de tecnologia.
 
 * Paralelamente, estou investindo em estudos contínuos nas áreas de gestão e projetos, com a finalidade de construir uma base sólida de conhecimentos que me permita acompanhar e contribuir com as inovações do setor.
-  ----------------------------------------------------------------------------------------------------------
+ 
 <div>
   <a href="https://www.linkedin.com/in/rafael-santana-1361b7205/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
