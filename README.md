@@ -8,8 +8,8 @@
  
 <div>
   <a href="https://www.linkedin.com/in/rafael-santana-1361b7205/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira10&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaDev42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev42&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
