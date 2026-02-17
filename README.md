@@ -1,4 +1,4 @@
-# Hi, I'm [Rafael Oliveira]! 👋
+# Hi, I'm [Rafael Oliveira](https://www.linkedin.com/in/rafaeloliveirabi/)! 👋
 
 **Data Analyst | Business Intelligence | SQL & Python Enthusiast**
 
@@ -22,7 +22,7 @@ Currently working at **BR Autoparts**, where I transform complex data from the a
 
 ---
 
-📫 **How to reach me:** [https://www.linkedin.com/in/rafaeloliveirabi/]
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rafaeloliveirabi/)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
