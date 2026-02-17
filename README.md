@@ -1,24 +1,29 @@
-## Olá, seja bem vindo!
+# Hi, I'm [Rafael Oliveira]! 👋
 
-* Analista de Dados com foco em transformar dados brutos em inteligência de negócio. Tenho experiência prática no desenvolvimento de dashboards em Qlik Sense e Power BI, além de sólida base em SQL para manipulação de bancos de dados.
+**Data Analyst | Business Intelligence | SQL & Python Enthusiast**
 
-* Minha atuação transita entre a análise exploratória e a construção de visualizações que facilitam a gestão empresarial. Busco constantemente otimizar processos de ETL e aprimorar a narrativa de dados (Data Storytelling) para apoiar decisões estratégicas.
+Currently working at **BR Autoparts**, where I transform complex data from the automotive industry into strategic insights. My daily challenge involves bridging the gap between raw data and business decisions.
 
-* Hard Skills: SQL, Qlik Sense (Set Analysis/Load Script), Power BI (DAX/M), Excel Avançado, Análise Estatística.
+---
 
-  ---------------------------------------------------------------------------------------
-## Hello, welcome!
+### 🛠 Tech Stack & Tools
 
-* Data Analyst focused on transforming raw data into actionable business intelligence. I have hands-on experience developing dynamic dashboards in Qlik Sense and Power BI, backed by a solid foundation in SQL for database manipulation and querying.
+* **Data Analysis & BI:** Qlik Sense (Set Analysis/Load Script), Power BI (DAX/M), Exploratory Data Analysis (EDA).
+* **Databases & Querying:** SQL (Expertise in DBeaver & Redshift).
+* **Programming:** Python for Data Manipulation & Automation.
+* **Cloud Infrastructure:** AWS (Redshift & Data Pipelines).
 
-* My expertise bridges the gap between exploratory data analysis (EDA) and building visualizations that streamline corporate management. I am constantly seeking to optimize ETL processes and enhance my Data Storytelling skills to support strategic decision-making and drive results.
+---
 
-* Hard Skills: SQL, Qlik Sense (Set Analysis / Load Script), Power BI (DAX / Power Query), Advanced Excel, Statistical Analysis.
+### 📊 What I'm working on
+- 🚀 Developing advanced dashboards in **Qlik Sense**.
+- 🔍 Optimizing **SQL queries** for large-scale data in **AWS Redshift**.
+- 🐍 Automating data tasks using **Python**.
 
-<div>
-  <a href="https://www.linkedin.com/in/rafaeloliveirabi/">
-</div>
-  
+---
+
+📫 **How to reach me:** [https://www.linkedin.com/in/rafaeloliveirabi/]
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
