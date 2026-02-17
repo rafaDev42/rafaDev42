@@ -1,20 +1,19 @@
 ## Olá, seja bem vindo!
 
-* Atualmente estou em transição para a área de desenvolvimento de sistemas, motivado por uma paixão de longa data por tecnologia. Estou em busca de minha primeira oportunidade na área, com o objetivo de iniciar uma trajetória sólida e de longo prazo em desenvolvimento de software.
+* Analista de Dados com foco em transformar dados brutos em inteligência de negócio. Tenho experiência prática no desenvolvimento de dashboards em Qlik Sense e Power BI, além de sólida base em SQL para manipulação de bancos de dados.
 
-* Minhas principais competências incluem resiliência, trabalho em equipe, comunicação eficaz, escrita, flexibilidade, organização e planejamento. Acredito que essas habilidades, desenvolvidas ao longo de minha experiência, serão um diferencial em minha atuação na área de tecnologia.
+* Minha atuação transita entre a análise exploratória e a construção de visualizações que facilitam a gestão empresarial. Busco constantemente otimizar processos de ETL e aprimorar a narrativa de dados (Data Storytelling) para apoiar decisões estratégicas.
 
-* Paralelamente, estou investindo em estudos contínuos nas áreas de gestão e projetos, com a finalidade de construir uma base sólida de conhecimentos que me permita acompanhar e contribuir com as inovações do setor.
+* Hard Skills: SQL, Qlik Sense (Set Analysis/Load Script), Power BI (DAX/M), Excel Avançado, Análise Estatística.
 
   ---------------------------------------------------------------------------------------
 ## Hello, welcome!
 
- * I am currently transitioning into systems development, motivated by a long-standing passion for technology. I am looking for my first opportunity in this field with the aim of starting a solid, long-term career in software development.
+* Data Analyst focused on transforming raw data into actionable business intelligence. I have hands-on experience developing dynamic dashboards in Qlik Sense and Power BI, backed by a solid foundation in SQL for database manipulation and querying.
 
-* My core skills include resilience, teamwork, effective communication, writing, flexibility, organization, and planning. I believe that these skills, developed throughout my experience, will be a differentiator in my work in technology.
+* My expertise bridges the gap between exploratory data analysis (EDA) and building visualizations that streamline corporate management. I am constantly seeking to optimize ETL processes and enhance my Data Storytelling skills to support strategic decision-making and drive results.
 
-* At the same time, I invest in ongoing studies in the areas of management and projects, with the goal of building a solid knowledge base that will enable me to keep up with and contribute to innovations in the industry.
-
+* Hard Skills: SQL, Qlik Sense (Set Analysis / Load Script), Power BI (DAX / Power Query), Advanced Excel, Statistical Analysis.
 
 <div>
   <a href="https://www.linkedin.com/in/rafaeloliveirabi/">
