@@ -24,7 +24,7 @@ Currently working at **BR Autoparts**, where I transform complex data from the a
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rafaeloliveirabi/)
 
-### 🛠 Minha Stack de Dados
+### 🛠 My Data Stack
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense">
